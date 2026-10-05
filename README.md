@@ -48,3 +48,6 @@ Further analysis is needed with more records to analyze this pattern.
 ### Conclusion/Final Insights:
 Even though there is no evidence in suspicious transaction patterns, there are several findings that can be used to enhance current system’s security and database. It has to be done to ensure good data quality in the future, thus database can be used for machine learning with minimum data cleaning process.
 
+#### Dashboard:
+http://public.tableau.com/views/Purwadhika_E-WalletProjectDashboard/DashMain
+
